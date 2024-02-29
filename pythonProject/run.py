@@ -6,7 +6,7 @@ if __name__ == "__main__":
     subprocess.run(["python", "Problem1.py"])
 
     # break
-    print("====================")
+    print("\n====================")
 
     # Run the second file
     print("\nRunning the second file:")
